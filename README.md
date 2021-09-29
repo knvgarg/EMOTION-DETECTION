@@ -61,4 +61,7 @@ On submission the image that the user had uploaded would be displayed in the scr
 ## WORK FLOW:
 
 
+![workflow (2)](https://user-images.githubusercontent.com/43125368/135265407-39a01fe5-2b7e-48e6-894f-9982258cc15f.png)
+
+
  
