@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>SENTIMENT DETECTION</title>
+</head>
+<body>
+{% block content %}
+<center><h1> UPLOAD IMAGE FOR SENTIMENT DETECTION </h1></center>
+<form method="post" enctype="multipart/form-data" action="predictImage">
+    {% csrf_token %}
+    <br>
+    <h3>Upload image here: <input type="file" name="filePath"></h3>
+    <br>
+    <input type ="submit" value="SUBMIT">
+    <br>
+    <h3> FILE CHOSEN:</h3>
+    <img src={{filePathName}} alt='imgname'>
+
+    <h2>PREDICTED SENTIMENT:</h2>
+    {{pred}}<br>
+</form>
+<br>
+</body>
+</html>
+{% endblock %}
