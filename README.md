@@ -50,12 +50,12 @@ On submission the image that the user had uploaded would be displayed in the scr
 ## VISUALS:
 ### •	LANDING PAGE:
 
- ![image](https://user-images.githubusercontent.com/43125368/135261522-31f227f0-ad37-47c2-8be1-466c56b51f66.png)
+ ![image](https://user-images.githubusercontent.com/43125368/136496531-f815eb62-ae4f-40bd-9425-bad678e184a5.png)
 
 
 ### •	AFTER PREDICTION:
 
-![image](https://user-images.githubusercontent.com/43125368/135261562-8ba60589-0d33-460d-837b-f8fcdfb673fe.png)
+![image](https://user-images.githubusercontent.com/43125368/136496585-e68fdb0d-6a8b-4c73-b774-2e764398655c.png)
 
 
 ## WORK FLOW:
