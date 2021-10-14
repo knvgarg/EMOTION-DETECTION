@@ -38,7 +38,7 @@ Partnerships between emotion AI technology vendors and surveillance camera provi
 
 ### 7.	Retail:
 
-Retailers have started looking into installing computer vision emotion AI technology in stores to capture demographic information and visitors' mood and reactions.
+Retailer has started looking into installing computer vision emotion AI technology in stores to capture demographic information and visitors' mood and reactions.
 
 
 ## OVERVIEW:
